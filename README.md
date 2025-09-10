@@ -6,5 +6,5 @@
 
 如果这本书讲得完，我们会继续学Mathematical Methods for Optimization: Dynamic Optimization，下载链接：https://math.berkeley.edu/~evans/math%20195%20notes.pdf
 
-\\
+
 如果有任何疑问，欢迎联系我：xiaolh@jnu.edu.cn
